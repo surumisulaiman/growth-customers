@@ -74,7 +74,7 @@ a {
 }
 
 .about_photo{
-    background-image: url('../images/bg_img.png');
+    background-image: url('../images/Frame\ 19\ \(1\).png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom;
@@ -661,9 +661,7 @@ margin-top: 60px;
                         .servicesub_data {
                             padding: 5px 10px;
                         }
-                        .chat_boxdiv{
-                            position: ;
-                        }
+                        
                         .chat_boxdatas_leftdata{
                             display: flex;
                         }
